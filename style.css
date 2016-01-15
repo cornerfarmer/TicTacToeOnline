@@ -1,2 +1,12 @@
 ﻿body {
+    text-align: center;
+}
+
+#game {
+    display: inline-block;
+}
+
+#score, #status {
+    font-size: 20pt;
+    margin: 10px;
 }
